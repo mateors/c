@@ -9,7 +9,7 @@
 > *this will generate ***mydll.o*** object file*
 
 > gcc -shared -o MyLib.dll -Wl,--out-implib,libtstdll.a mydll.o \
-> *this will create two files ***MyLib.dll*** and ***libtstdll.a***
+> *this will create two files ***MyLib.dll*** and ***libtstdll.a*** *
 
 
 # Resources
