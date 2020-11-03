@@ -34,6 +34,9 @@ The syntax for creating a constant using #define in the C language is:
 
 #### Searching for Header Files and Libraries (-I, -L and -l)
 
+## Download GCC Compiler for 64 bit windows
+* http://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download
+
 ## Resources
 * https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html
 * https://www.codementor.io/@a_hathon/building-and-using-dlls-in-c-d7rrd4caz
