@@ -42,3 +42,4 @@ The syntax for creating a constant using #define in the C language is:
 * https://www.codementor.io/@a_hathon/building-and-using-dlls-in-c-d7rrd4caz
 * https://www.edureka.co/blog/how-to-compile-c-program-in-command-prompt/
 * https://www.techonthenet.com/c_language/file_naming.php
+* https://medium.com/@markkevinbaltazar/how-to-compile-link-and-build-a-c-program-using-gcc-578071c79a76
