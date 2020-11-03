@@ -5,10 +5,10 @@
  * Execute the following command one by another.
 
 
-> gcc -c mydll.c 
+> gcc -c mydll.c\
 > this will generate **mydll.o** object file
 
-> gcc -shared -o MyLib.dll -Wl,--out-implib,libtstdll.a mydll.o 
+> gcc -shared -o MyLib.dll -Wl,--out-implib,libtstdll.a mydll.o \
 > this will create two files **MyLib.dll** and **libtstdll.a**
 
 
