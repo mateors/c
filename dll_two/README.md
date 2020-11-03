@@ -13,4 +13,5 @@
 
 
 # Resources
+* https://www.codementor.io/@a_hathon/building-and-using-dlls-in-c-d7rrd4caz
 * https://medium.com/@markkevinbaltazar/how-to-compile-link-and-build-a-c-program-using-gcc-578071c79a76
